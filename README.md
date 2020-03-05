@@ -1,2 +1,2 @@
 # plotly-challenge
-Plotly Homework
+plotly-challenge
